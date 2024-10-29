@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\source\repos\DelegateMethods\bin\Debug\net6.0\DelegateMethods.exe
+C:\Users\Allahverdi\source\repos\DelegateMethods\bin\Debug\net6.0\DelegateMethods.deps.json
+C:\Users\Allahverdi\source\repos\DelegateMethods\bin\Debug\net6.0\DelegateMethods.runtimeconfig.json
+C:\Users\Allahverdi\source\repos\DelegateMethods\bin\Debug\net6.0\DelegateMethods.dll
+C:\Users\Allahverdi\source\repos\DelegateMethods\bin\Debug\net6.0\DelegateMethods.pdb
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.AssemblyInfo.cs
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.dll
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\refint\DelegateMethods.dll
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.pdb
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\DelegateMethods.genruntimeconfig.cache
+C:\Users\Allahverdi\source\repos\DelegateMethods\obj\Debug\net6.0\ref\DelegateMethods.dll
